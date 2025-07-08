@@ -736,7 +736,7 @@
 					&copy; 2023 Gymbo. All rights reserved. | Privacy Policy | Terms of Service
 				</p>
 				<p class="text-gray-400 text-center md:text-right mt-4 md:mt-0">
-					Designed with ❤️ for fitness enthusiasts
+					Designed by <a href="https://giddelwilson.vercel.app" class="text-red-500 hover:text-red-400 transition-colors">Giddel Wilson</a>
 				</p>
 			</div>
 		</div>
